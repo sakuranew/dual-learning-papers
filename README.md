@@ -1,6 +1,6 @@
 # dual-learning-papers
 
-### Look forward to your kind star^_^
+### ^_^
 some good dual learning papers 
 
 
